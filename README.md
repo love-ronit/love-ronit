@@ -29,7 +29,7 @@ Analyzes customer feedback using **NLP sentiment analysis** to identify patterns
 - 90% accuracy using Logistic Regression & Random Forest  
 - Transformed qualitative data into measurable business insights  
 
-#### 🏭 [Manufacturing Device Performance Dashboard (Excel, Data Viz)](https://github.com/love-ronit)
+#### 🏭 [Manufacturing Device Performance Dashboard (Excel, Data Viz)](https://github.com/love-ronit/Manufacturing-Analytics-Project)
 Interactive dashboard tracking 26,000+ devices across 4 factories.  
 - Integrated KPI summaries and trend analytics  
 - Enabled real-time decisions to optimize performance  
