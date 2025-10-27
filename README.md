@@ -39,7 +39,7 @@ Automated employee data operations for small businesses.
 - CRUD system with structured MySQL backend  
 - Improved workflow efficiency by **70%**
 
-#### 🧬 [Enhancing Human-Computer Interaction with Generative AI (Research)](https://github.com/love-ronit)
+#### 🧬 [Enhancing Human-Computer Interaction with Generative AI (Research)](doi.org/10.1109/ICTBIG64922.2024.10911352)
 Research on applying **Generative AI** to adaptive, human-centered interfaces.  
 - Proposed intelligent UI generation for usability optimization  
 - Explored design adaptability & personalization in AI systems  
