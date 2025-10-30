@@ -1,6 +1,6 @@
 <!-- 👋 Interactive GitHub Profile for Ronit | APM Candidate -->
 <h1 align="center">👋 Hey, I’m Ronit</h1>
-<h3 align="center">Computer Science Undergraduate </h3>
+<h3 align="center">Computer Science Undergraduate | Aspiring Product Manager </h3>
 
 <p align="center">
   <a href="mailto:rronit801@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail"></a>
